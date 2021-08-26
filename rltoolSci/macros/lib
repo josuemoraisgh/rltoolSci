@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="rltoollib">
+  <macro name="alteraCompensador" file="alteraCompensador.bin" md5="10fb4695550e798888d5d2ac433bf4c1"/>
+  <macro name="alteraPlanta" file="alteraPlanta.bin" md5="8892cd17c255d0c47d3aecfb3aa2d2e3"/>
+  <macro name="alteraPontoDesejado" file="alteraPontoDesejado.bin" md5="adc5b1aed88d564bd6eacc4ced956595"/>
+  <macro name="isDocked" file="isDocked.bin" md5="5c92b93945d81412242829f47c62def7"/>
+  <macro name="plotEvans" file="plotEvans.bin" md5="9f726ccdd37aaf53135ca42e6ab6928a"/>
+  <macro name="pontoDesejado" file="pontoDesejado.bin" md5="17bb419d492b45b97062b088ead9c945"/>
+  <macro name="rltFuncCancel" file="rltFuncCancel.bin" md5="670c339abe8a2dd1cc386f0020b9c545"/>
+  <macro name="rltFuncLag" file="rltFuncLag.bin" md5="90e4864a673c946c885a19c081de7086"/>
+  <macro name="rltFuncLead" file="rltFuncLead.bin" md5="a7907a8a6e4c23a374aba254608df0ef"/>
+  <macro name="rltFuncLimpar" file="rltFuncLimpar.bin" md5="bff289f09872a31ef04e77807418fa81"/>
+  <macro name="rltFuncMargin" file="rltFuncMargin.bin" md5="ab7475764ef063a03df30ff57302041a"/>
+  <macro name="rltFuncSZP" file="rltFuncSZP.bin" md5="4395a7b07013a867887f160c26988493"/>
+  <macro name="rltFuncSalvar" file="rltFuncSalvar.bin" md5="74fb3b7ed7760e6dd702874e25cd2ec2"/>
+  <macro name="rltFuncStep" file="rltFuncStep.bin" md5="a3d8870ecd83223ca527e7ea699b4d29"/>
+  <macro name="rltGuiConfig" file="rltGuiConfig.bin" md5="6b198207a3f0b5aa7a61f8ada428e874"/>
+  <macro name="rltGuiEvans" file="rltGuiEvans.bin" md5="7a7a9dba533dc37db255b1d951df8d11"/>
+  <macro name="rltool" file="rltool.bin" md5="48a5585ee166a187b38a56c36243a7cf"/>
+  <macro name="rtlFuncFactorForm" file="rtlFuncFactorForm.bin" md5="aad8801a5148f1515b9751399704ac04"/>
+</scilablib>
